@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql+pymysql://root:@localhost/captaincool",
+        "prod_uri":"mysql+pymysql://root:@localhost/captaincool",
+        "fb_url":"https://facebook.com/theevolvfit/",
+        "tw_url":"https://twitter.com/evolvefit?lang=en",
+        "gh_url":"https://github.com/captaincool",
+        "blog_name":"Captain Cool",
+        "gmail-user":"jainarya2203@gmail.com",
+        "gmail-password":"aman2203",
+        "about_text":"hello guys",
+        "no_of_posts": 2,
+        "login_img":"logo.svg",
+        "admin_user":"aman",
+        "admin_pass":"2203",
+        "upload_location":"F:\\python-flask"
+    }
+}
+
+
